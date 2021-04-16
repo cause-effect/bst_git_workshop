@@ -5,4 +5,4 @@ Praktischer Teil des Workshops.
 URL: jjmllr.github.io/bst-git-workshop/
 
 # Quelle
-Das Projekt wurde ursprünglisch von [beforeeighteen](https://github.com/kinlane/beforeeighteen) geforked.
+Das Projekt wurde ursprünglich von [beforeeighteen](https://github.com/kinlane/beforeeighteen) geforked.
