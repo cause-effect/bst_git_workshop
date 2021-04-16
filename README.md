@@ -2,7 +2,7 @@
 
 Praktischer Teil des Workshops.
 
-URL: jjmllr.github.io/bst-git-workshop/
+URL: https://github.com/cause-effect/bst_git_workshop
 
 # Quelle
 Das Projekt wurde ursprünglich von [beforeeighteen](https://github.com/kinlane/beforeeighteen) geforked.
