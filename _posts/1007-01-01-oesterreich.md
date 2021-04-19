@@ -4,7 +4,7 @@ layout: post
 
 # Österreich
 
-![Flag of Portugal] (https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/225px-Flag_of_Austria.svg.png)
+![Flag of Austria] (https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/225px-Flag_of_Austria.svg.png)
 
 Wikipedia-Artikel
 
